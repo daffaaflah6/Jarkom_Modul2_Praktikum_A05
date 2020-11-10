@@ -20,6 +20,8 @@ File pendukung :
 - Pendukung https://naik.gunung.semeruyyy.pw didownload dengan cara `wget 10.151.36.202/naik.gunung.semeru.pw.zip`
 
 # SOAL
+![praktikum3](https://user-images.githubusercontent.com/52326074/98698366-83f0b400-23a8-11eb-9daa-a1bf268600e6.jpg)
+
 1. Alamat https://semeruyyy.pw -> `https://semerua05.pw`
 
 2. Alias https://www.semeruyyy.pw -> ` https://www.semerua05.pw`
