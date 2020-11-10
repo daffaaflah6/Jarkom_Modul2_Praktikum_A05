@@ -1,6 +1,6 @@
 # Jarkom_Modul2_Praktikum_A05
-
-MUHAMMMAD DAFFA’ AFLAH SYARIF    05111840000030 || PUTU PUTRI NATIH DEVAYANTI       05111840000163
+- MUHAMMMAD DAFFA’ AFLAH SYARIF    05111840000030
+- PUTU PUTRI NATIH DEVAYANTI       05111840000163
 
 # Catatan Penting !!!
 Disarankan untuk mengganti password user kelompok
@@ -15,9 +15,9 @@ Install php5, jika tidak bisa install php7.0
 
 File pendukung :
 
-- Pendukung https://semeruyyy.pw didownload dengan cara : wget 10.151.36.202/semeru.pw.zip
-- Pendukung https://penanjakan.semeruyyy.pw didownload dengan cara : wget 10.151.36.202/penanjakan.semeru.pw.zip
-- Pendukung https://naik.gunung.semeruyyy.pw didownload dengan cara : wget 10.151.36.202/naik.gunung.semeru.pw.zip
+- Pendukung https://semeruyyy.pw didownload dengan cara `wget 10.151.36.202/semeru.pw.zip`
+- Pendukung https://penanjakan.semeruyyy.pw didownload dengan cara `wget 10.151.36.202/penanjakan.semeru.pw.zip`
+- Pendukung https://naik.gunung.semeruyyy.pw didownload dengan cara `wget 10.151.36.202/naik.gunung.semeru.pw.zip`
 
 # SOAL
 1. Alamat https://semeruyyy.pw -> `https://semerua05.pw`
@@ -34,11 +34,11 @@ File pendukung :
 
 7. Subdomain dengan alamat https://naik.gunung.semeruyyy.pw -> `https://naik.gunung.semerua05.pw` domain ini diarahkan ke IP PROBOLINGGO
 
-8. Domain https://semeruyyy.pw -> `https://semerua05.pw` memiliki DocumentRoot pada /var/www/semeruyyy.pw ->  `/var/www/semerua05.pw`
+8. Domain https://semeruyyy.pw -> `https://semerua05.pw` memiliki DocumentRoot pada /var/www/semeruyyy.pw -> `/var/www/semerua05.pw`
 
 9. Awalnya dapat diakses menggunakan alamat https://semeruyyy.pw/index.php/home -> `https://semerua05.pw/index.php/home` kemudian url di mod rewrite menjadi https://semeruyyy.pw/home -> `https://semerua05.pw/home`
 
-10. Web https://penanjakan.semeruyyy.pw -> `https://penanjakan.semerua05.pw` digunakan untuk menyimpan assets file yang memiliki DocumentRoot pada /var/www/penanjakan.semeruyyy.pw -> /var/www/penanjakan.semerua05.pw` dan memiliki folder sebagai berikut.
+10. Web https://penanjakan.semeruyyy.pw -> `https://penanjakan.semerua05.pw` digunakan untuk menyimpan assets file yang memiliki DocumentRoot pada /var/www/penanjakan.semeruyyy.pw -> `/var/www/penanjakan.semerua05.pw` dan memiliki folder sebagai berikut.
 
 ```
 /var/www/penanjakan.semeruyyy.pw
