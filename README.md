@@ -78,6 +78,8 @@ File pendukung :
 
 9. Awalnya dapat diakses menggunakan alamat https://semeruyyy.pw/index.php/home -> `https://semerua05.pw/index.php/home` kemudian url di mod rewrite menjadi https://semeruyyy.pw/home -> `https://semerua05.pw/home`
 
+![9~](https://user-images.githubusercontent.com/52326074/98810601-0e412280-2452-11eb-8aa0-d457c0a4fb1a.png)
+
 ![9](https://user-images.githubusercontent.com/52326074/98809955-ffa63b80-2450-11eb-8188-14a25657dc0c.jpg)
 
 10. Web https://penanjakan.semeruyyy.pw -> `https://penanjakan.semerua05.pw` digunakan untuk menyimpan assets file yang memiliki DocumentRoot pada /var/www/penanjakan.semeruyyy.pw -> `/var/www/penanjakan.semerua05.pw` dan memiliki folder sebagai berikut.
