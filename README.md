@@ -136,10 +136,18 @@ File pendukung :
 
 ![14b](https://user-images.githubusercontent.com/52326074/98818677-7990f180-245e-11eb-8a8c-220455852aa7.png)
 
-![14c](https://user-images.githubusercontent.com/52326074/98818686-7ac21e80-245e-11eb-8aee-ef00dcb36783.jpg)
+![14c](https://user-images.githubusercontent.com/52326074/98824136-8238f600-2465-11eb-9364-92c0c44bb47e.jpg)
 
 15. Karena https://naik.gunung.semeruyyy.pw -> `https://naik.gunung.semerua05.pw` private, selanjutnya membuat autentifikasi dengan username `semeru` dan password `kuynaikgunung` agar aman dan tidak sembarang orang mengaksesnya
 
+![15a](https://user-images.githubusercontent.com/52326074/98824133-81a05f80-2465-11eb-9e4b-808ef3bb5c52.jpg)
+
+![15b](https://user-images.githubusercontent.com/52326074/98824121-7e0cd880-2465-11eb-9126-ac5251c26617.jpg)
+
 16. IP PROBOLINGGO dialihkan secara otomatis ke https://semeruyyy.pw -> `https://semerua05.pw`
+
+![16a](https://user-images.githubusercontent.com/52326074/98824123-7f3e0580-2465-11eb-9f8e-25398d2ff4db.jpg)
+
+![16b](https://user-images.githubusercontent.com/52326074/98824125-806f3280-2465-11eb-883f-b9dff3ec6ab5.jpg)
 
 17. Karena pengunjung pada /var/www/penanjakan.semeruyyy.pw/public/images -> `/var/www/penanjakan.semerua05.pw/public/images` sangat banyak maka request gambar yang memiliki substring `semeru` akan diarahkan menuju semeru.jpg
