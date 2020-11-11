@@ -92,9 +92,37 @@ File pendukung :
                                 /errors
 ```
 
+![1011a](https://user-images.githubusercontent.com/52326074/98816038-a93dfa80-245a-11eb-83eb-d2f1d93cbbec.png)
+
+![1011b](https://user-images.githubusercontent.com/52326074/98816039-a9d69100-245a-11eb-9eb2-cea26b355067.png)
+
+![1011c](https://user-images.githubusercontent.com/52326074/98816025-a4794680-245a-11eb-99fb-f5a3d4b542d9.png)
+
+![1011d](https://user-images.githubusercontent.com/52326074/98816031-a6430a00-245a-11eb-9106-0299b9033efe.jpg)
+
+![1011e](https://user-images.githubusercontent.com/52326074/98816033-a6dba080-245a-11eb-8402-e374aa126b60.jpg)
+
+![10f](https://user-images.githubusercontent.com/52326074/98816035-a80ccd80-245a-11eb-8008-68595b0783c6.jpg)
+
 11. Pada folder `/public` dibolehkan directory listing namun untuk folder didalamnya tidak boleh
 
+![1011a](https://user-images.githubusercontent.com/52326074/98816038-a93dfa80-245a-11eb-83eb-d2f1d93cbbec.png)
+
+![1011b](https://user-images.githubusercontent.com/52326074/98816039-a9d69100-245a-11eb-9eb2-cea26b355067.png)
+
+![1011c](https://user-images.githubusercontent.com/52326074/98816025-a4794680-245a-11eb-99fb-f5a3d4b542d9.png)
+
+![1011d](https://user-images.githubusercontent.com/52326074/98816031-a6430a00-245a-11eb-9106-0299b9033efe.jpg)
+
+![1011e](https://user-images.githubusercontent.com/52326074/98816033-a6dba080-245a-11eb-8402-e374aa126b60.jpg)
+
 12. Mengatasi HTTP Error code 404 disediakan file `404.html` pada folder `/errors`
+
+![12a](https://user-images.githubusercontent.com/52326074/98816275-fe7a0c00-245a-11eb-8aac-daa2b7ed8bc7.jpg)
+
+![12b](https://user-images.githubusercontent.com/52326074/98816266-fc17b200-245a-11eb-9b7f-1e783f6fdf17.png)
+
+![12c](https://user-images.githubusercontent.com/52326074/98816271-fd48df00-245a-11eb-9d0c-83bf81d2662a.jpg)
 
 13. Untuk mengakses file assets javascript yang awalnya menggunakan url https://penanjakan.semeruyyy.pw/public/javascripts -> `https://penanjakan.semerua05.pw/public/javascripts` kemudian url di mod rewrite menjadi https://penanjakan.semeruyyy.pw/js -> `https://penanjakan.semerua05.pw/js`
 
