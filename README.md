@@ -126,7 +126,17 @@ File pendukung :
 
 13. Untuk mengakses file assets javascript yang awalnya menggunakan url https://penanjakan.semeruyyy.pw/public/javascripts -> `https://penanjakan.semerua05.pw/public/javascripts` kemudian url di mod rewrite menjadi https://penanjakan.semeruyyy.pw/js -> `https://penanjakan.semerua05.pw/js`
 
+![13a](https://user-images.githubusercontent.com/52326074/98818691-7bf34b80-245e-11eb-9a9d-c777b0ad5b70.jpg)
+
+![13b](https://user-images.githubusercontent.com/52326074/98818697-7dbd0f00-245e-11eb-927a-1deca7698a83.png)
+
 14. Web https://naik.gunung.semeruyyy.pw -> `https://naik.gunung.semerua05.pw` sudah bisa diakses hanya dengan port 8888
+
+![14a](https://user-images.githubusercontent.com/52326074/98818702-7eee3c00-245e-11eb-8dfd-0ce253306edd.jpg)
+
+![14b](https://user-images.githubusercontent.com/52326074/98818677-7990f180-245e-11eb-8a8c-220455852aa7.png)
+
+![14c](https://user-images.githubusercontent.com/52326074/98818686-7ac21e80-245e-11eb-8aee-ef00dcb36783.jpg)
 
 15. Karena https://naik.gunung.semeruyyy.pw -> `https://naik.gunung.semerua05.pw` private, selanjutnya membuat autentifikasi dengan username `semeru` dan password `kuynaikgunung` agar aman dan tidak sembarang orang mengaksesnya
 
