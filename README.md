@@ -151,3 +151,9 @@ File pendukung :
 ![16b](https://user-images.githubusercontent.com/52326074/98824125-806f3280-2465-11eb-883f-b9dff3ec6ab5.jpg)
 
 17. Karena pengunjung pada /var/www/penanjakan.semeruyyy.pw/public/images -> `/var/www/penanjakan.semerua05.pw/public/images` sangat banyak maka request gambar yang memiliki substring `semeru` akan diarahkan menuju semeru.jpg
+
+![17a](https://user-images.githubusercontent.com/52326074/98826269-10ae7700-2468-11eb-99aa-63318e8d6393.jpg)
+
+![17b](https://user-images.githubusercontent.com/52326074/98826265-0f7d4a00-2468-11eb-9fb3-e863e80a8124.jpg)
+
+# TERIMA KASIH
