@@ -144,7 +144,7 @@ zone "semerua05.pw" {
     file "/var/lib/bind/semerua05.pw";
 };
 ```
--Kemudian restart bind9 pada MOJOKERTO dengan perintah `service bind9 restart`
+- Kemudian restart bind9 pada MOJOKERTO dengan perintah `service bind9 restart`
 
 ![5b](https://user-images.githubusercontent.com/52326074/98808476-c076eb00-244e-11eb-9400-f85c44339ea1.jpg)
 
