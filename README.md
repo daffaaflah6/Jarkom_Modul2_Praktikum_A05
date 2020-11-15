@@ -391,7 +391,7 @@ apt-get install apache2 apache2-utils
 ```
 - Kemudian masukkan perintah `htpasswd -c /etc/apache2/.htpasswd semeru`
 - Masukkan password `kuynaikgunung`
-- Edit file `etc/apache2/sites-enabled/naik.gunung.semerua05.pw` untuk menambahkan Auth, seperti:
+- Edit file `etc/apache2/sites-availabled/naik.gunung.semerua05.pw` untuk menambahkan Auth, seperti:
 ```
 <Directory /var/www/naik.semerua05.pw>
      AuthType Basic
@@ -411,7 +411,7 @@ apt-get install apache2 apache2-utils
 
 ## 16. IP PROBOLINGGO dialihkan secara otomatis ke https://semeruyyy.pw -> `https://semerua05.pw`
 - Buka browser dan akses `10.151.73.52` yang merupakan IP probolinggo untuk pengecekan awal.
-- Mengedit file 000-default di `/var/www`
+- Mengedit file 000-default di `/etc/apache2/sites-availabled`
 
 ![16a](https://user-images.githubusercontent.com/52326074/98824123-7f3e0580-2465-11eb-9f8e-25398d2ff4db.jpg)
 
