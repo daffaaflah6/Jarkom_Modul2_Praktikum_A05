@@ -158,7 +158,7 @@ zone "semerua05.pw" {
 ![5d](https://user-images.githubusercontent.com/52326074/98808479-c240ae80-244e-11eb-9438-98b058368f6c.jpg)
 
 ## 6. Subdomain dengan alamat https://gunung.semeruyyy.pw -> `https://gunung.semerua05.pw` yang didelegasikan pada server MOJOKERTO dan mengarahkan ke IP PROBOLINGGO
-`MALANG`
+MALANG
 
 - Edit file `nano /etc/bind/jarkom/semerua05.pw`
 - Tambahkan konfigurasi
@@ -180,9 +180,9 @@ zone "semerua05.pw" {
     file "/etc/bind/jarkom/semerua05.pw";
 };
 ```
--Kemudian restart bind9 dengan perintah `service bind9 restart`
+- Kemudian restart bind9 dengan perintah `service bind9 restart`
 
-`MOJOKERTO`
+MOJOKERTO
 
 - Edit `nano /etc/bind/named.conf.options`
 - Comment kan `//dnssec-validation auto;`
