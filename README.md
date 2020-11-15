@@ -222,7 +222,7 @@ $TTL    604800
 ![6c7b](https://user-images.githubusercontent.com/52326074/98809033-94a83500-244f-11eb-8346-f7c8fdf0b6c7.jpg)
 
 ## 7. Subdomain dengan alamat https://naik.gunung.semeruyyy.pw -> `https://naik.gunung.semerua05.pw` domain ini diarahkan ke IP PROBOLINGGO
-- Pada MOJOKERTO edit `nano /etc/bind/delegasi/gunung.semerub12.pw` dan tambahkan
+- Pada MOJOKERTO edit `nano /etc/bind/delegasi/gunung.semerua05.pw` dan tambahkan
 ```
 naik       IN      A       10.151.73.52 ;IP PROBOLINGGO
 ```
